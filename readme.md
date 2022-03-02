@@ -1,7 +1,7 @@
 Hello Everyone: 
 
-Here is a link to my repository:
+Here is the link to my heroku:
 
-https://github.com/zhenyalinski/anotherflask.git
+https://git.heroku.com/krutokak.git
 
 Thank you for your time.
